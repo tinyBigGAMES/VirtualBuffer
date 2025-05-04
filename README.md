@@ -28,7 +28,7 @@
 
 Just add `VirtualBuffer` to your Delphi project `uses` section. No external dependencies required.
 
-Tested on **Delphi 12.3** and **Windows 64-bit**.
+Tested on **Delphi 12.3** and **Windows 11, 64-bit**.
 
 ## 📦 Usage Example
 
