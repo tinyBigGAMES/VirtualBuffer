@@ -116,7 +116,7 @@ class function LoadFromFile(const AFilename: string): TVirtualBuffer<T>;
 #### Other
 
 ```pascal
-function Eos(): Boolean; // End of stream
+function Eob(): Boolean; // End of buffer
 ```
 
 ## 🔒 Thread Safety
